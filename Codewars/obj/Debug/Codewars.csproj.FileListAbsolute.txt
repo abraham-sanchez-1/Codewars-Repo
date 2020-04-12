@@ -1,0 +1,6 @@
+C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\bin\Debug\Codewars.exe.config
+C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\bin\Debug\Codewars.exe
+C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\bin\Debug\Codewars.pdb
+C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\obj\Debug\Codewars.csprojAssemblyReference.cache
+C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\obj\Debug\Codewars.exe
+C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\obj\Debug\Codewars.pdb

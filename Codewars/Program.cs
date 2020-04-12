@@ -10,7 +10,13 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
+            //Jaden case class
+            JadenCase.Run();
 
+
+            //Ending for all programs
+            Console.WriteLine("End of program");
+            Console.ReadLine();
 
 
         }
