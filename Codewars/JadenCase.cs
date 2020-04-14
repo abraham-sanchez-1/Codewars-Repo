@@ -10,7 +10,7 @@ namespace Codewars
     // Example: "Hello, This Is Jaden Cased"
     public static class JadenCase
     {
-        public static string Run()
+        public static void Run()
         {
             // Member Variables (HAS A)
             //Constructor (SPAWNER)
@@ -22,8 +22,7 @@ namespace Codewars
             var charArray = phrase.ToCharArray();
             var jadenCasedString = Capitalize(charArray);
             Console.WriteLine("The Jaden Cased string is: {0}", jadenCasedString);
-           
-            return phrase;
+          
         }
         private static string Capitalize(char[] charArray)
         {
