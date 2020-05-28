@@ -4,3 +4,10 @@ C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codew
 C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\obj\Debug\Codewars.csprojAssemblyReference.cache
 C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\obj\Debug\Codewars.exe
 C:\Users\sanch\OneDrive\Desktop\devCodeCamp\Whiteboard Challenges\CodeWars\Codewars\Codewars\obj\Debug\Codewars.pdb
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\obj\Debug\Codewars.csprojAssemblyReference.cache
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\obj\Debug\Codewars.csproj.CoreCompileInputs.cache
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\obj\Debug\Codewars.exe
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\obj\Debug\Codewars.pdb
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\bin\Debug\Codewars.exe.config
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\bin\Debug\Codewars.exe
+C:\Projects\Problems\Codewars\Codewars-Repo\Codewars\bin\Debug\Codewars.pdb
