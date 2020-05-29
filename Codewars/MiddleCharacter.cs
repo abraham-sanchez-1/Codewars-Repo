@@ -13,6 +13,7 @@ namespace Codewars
         {
             var inputArray = inputString.ToCharArray();
 
+
             if(inputArray.Length % 2 == 0)
             {
                 var middleIndex = inputArray.Length / 2;

@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayDiff.cs" />
+    <Compile Include="EnoughIsEnough.cs" />
+    <Compile Include="GenericMethods.cs" />
     <Compile Include="JadenCase.cs" />
     <Compile Include="LikesString.cs" />
     <Compile Include="MiddleCharacter.cs" />

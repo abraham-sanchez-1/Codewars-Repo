@@ -12,7 +12,7 @@ namespace Codewars
         {
             //Hello! Welcome to my program holding all solutions for Codewar related problems
             //To run any of the problems, simply uncomment method prior to running.
-            
+
             //Jaden case class
             //JadenCase.Run();
 
@@ -23,8 +23,13 @@ namespace Codewars
             //ValidatePinCode.Run();
 
             //Get the Middle Character: Return middle character of string, if odd, return middle, if even, return middle 2 characters.
-            MiddleCharacter.MethodRun("Example"); //should return 'm'
-            MiddleCharacter.MethodRun("Examples"); //should return 'mp'
+            //MiddleCharacter.MethodRun("Example"); //should return 'm'
+            //MiddleCharacter.MethodRun("Examples"); //should return 'mp'
+
+            //Enough is Enough! Return a new int array that oncly contains each number at most X times.
+            int[] arrayName = { 1, 2, 3, 3, 3, 4, 4, 5, 5, 6, 6, 6, 6, 7, 7 };
+            int repeatLimit = 2;
+            EnoughIsEnough.MethodRun(arrayName, repeatLimit);
 
             //Ending for all programs
             Console.WriteLine("End of program");
