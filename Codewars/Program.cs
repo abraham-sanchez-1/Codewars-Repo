@@ -32,7 +32,13 @@ namespace Codewars
             //EnoughIsEnough.MethodRun(arrayName, repeatLimit); // Will display array: [1,2,2,3,3,4,4,5,5]
 
             //Encryption Part #1: Take every 2nd char from the string, then the other chars that are not every 2nd char, and concat them as new String.
-            EncryptionPartOne.Decrypt("testsa", 1); //Prints
+            //var value = EncryptionPartOne.Encrypt("This is a test!", 1);
+            //Console.WriteLine("This is the encrypted form: {0}", value);
+            //var newValue = EncryptionPartOne.Decrypt(value, 1);//Prints
+            //Console.WriteLine("Now it has been decrypted: {0}", newValue);
+
+            //Number in Expanded Form: return expanded form of a number, example: 4032 -> 4000 + 30 + 2
+            ExpandedNumber.MethodRun();
 
             //Ending for all programs
             Console.WriteLine("End of program");
