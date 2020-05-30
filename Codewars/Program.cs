@@ -27,9 +27,12 @@ namespace Codewars
             //MiddleCharacter.MethodRun("Examples"); //should return 'mp'
 
             //Enough is Enough! Return a new int array that oncly contains each number at most X times.
-            int[] arrayName = { 1, 2, 3, 3, 3, 4, 4, 5, 5, 6, 6, 6, 6, 7, 7 };
-            int repeatLimit = 2;
-            EnoughIsEnough.MethodRun(arrayName, repeatLimit);
+            //int[] arrayName = { 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5}; 
+            //int repeatLimit = 2;
+            //EnoughIsEnough.MethodRun(arrayName, repeatLimit); // Will display array: [1,2,2,3,3,4,4,5,5]
+
+            //Encryption Part #1: Take every 2nd char from the string, then the other chars that are not every 2nd char, and concat them as new String.
+            EncryptionPartOne.Decrypt("testsa", 1); //Prints
 
             //Ending for all programs
             Console.WriteLine("End of program");

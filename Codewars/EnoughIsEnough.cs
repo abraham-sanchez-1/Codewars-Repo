@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+
 
 namespace Codewars
 {
@@ -36,7 +35,8 @@ namespace Codewars
             }
 
             int[] finalArray = tempList.ToArray();
-
+            Console.WriteLine("New Array: ");
+            GenericMethods.consoleLog(finalArray);
 
             //var newArray = valuePairs.Values.ToArray();
 
