@@ -16,6 +16,14 @@ namespace Codewars
                 Console.Write(item);
             }
         }
-       
+
+        public static void consoleLog(List<string> stringList)
+        {
+            foreach (var item in stringList)
+            {
+                Console.Write(item + " ");
+            }
+        }
+
     }
 }

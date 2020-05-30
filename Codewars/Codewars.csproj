@@ -50,6 +50,7 @@
     <Compile Include="GenericMethods.cs" />
     <Compile Include="JadenCase.cs" />
     <Compile Include="LikesString.cs" />
+    <Compile Include="MexicanWave.cs" />
     <Compile Include="MiddleCharacter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

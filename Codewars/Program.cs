@@ -38,7 +38,13 @@ namespace Codewars
             //Console.WriteLine("Now it has been decrypted: {0}", newValue);
 
             //Number in Expanded Form: return expanded form of a number, example: 4032 -> 4000 + 30 + 2
-            ExpandedNumber.MethodRun();
+            //ExpandedNumber.MethodRun();
+
+            //Mexican Wave: As seen in stadiums accross the world, the Mexican wave (as it originated in Mexico) is refers to the wave like pattern that 
+            //          fans in a stadium create by standing up in a successive pattern.  This will be replicated by the method below by taking in a lowercase string
+            //          and returning a list of strings that imitates this wave via a slightly altered version of the input string
+            //          example: Input: "hello" -> Output: ["Hello", "hEllo", "heLlo", "helLo", ""hellO"]
+            MexicanWave.MethodRun();
 
             //Ending for all programs
             Console.WriteLine("End of program");

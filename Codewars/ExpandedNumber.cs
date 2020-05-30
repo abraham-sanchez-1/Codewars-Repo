@@ -16,7 +16,7 @@ namespace Codewars
             Console.WriteLine("Enter number to be expanded: ");
             //char[] numbers = ( Console.ReadLine()).ToCharArray();
             string number = Console.ReadLine();
-
+            
             string newString = null;
             for (int i = 0; i < number.Length; i++)
             {
@@ -29,20 +29,6 @@ namespace Codewars
                     newString = newString + " + " + number[i] + string.Concat(Enumerable.Repeat("0", (number.Length - (i+1))));
                 }
             }
-
-            //string addedNumbers = null;
-            //List<string> stringCollection = new List<string>();
-            //for (int i = 0; i < numbers.Length; i++)
-            //{
-            //    if (addedNumbers == null && numbers[i] != 0)
-            //    {
-            //        addedNumbers = numbers[i] + string.Concat(Enumerable.Repeat("0", numbers.Length - 1));
-            //    }
-            //    else if (numbers[i] != 48 || number[i] != 0)
-            //    {
-            //        addedNumbers = addedNumbers + " + " + numbers[i] + string.Concat(Enumerable.Repeat("0", (numbers.Length - i)));
-            //    }
-            //}
 
             Console.WriteLine("Method Complete, Value Returned: {0}", newString );
         }
