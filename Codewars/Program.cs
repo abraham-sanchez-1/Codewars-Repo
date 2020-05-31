@@ -10,6 +10,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
+            //*******************************************************************************
             //Hello! Welcome to my program holding all solutions for Codewar related problems
             //To run any of the problems, simply uncomment method prior to running.
 
@@ -44,7 +45,11 @@ namespace Codewars
             //          fans in a stadium create by standing up in a successive pattern.  This will be replicated by the method below by taking in a lowercase string
             //          and returning a list of strings that imitates this wave via a slightly altered version of the input string
             //          example: Input: "hello" -> Output: ["Hello", "hEllo", "heLlo", "helLo", ""hellO"]
-            MexicanWave.MethodRun();
+            //MexicanWave.MethodRun();
+
+            //Reverse Specific Strings: Take in word or sentence and only reverse said string if it is 5 or more characters long
+            ReverseFiveChar.MethodRun();
+
 
             //Ending for all programs
             Console.WriteLine("End of program");
