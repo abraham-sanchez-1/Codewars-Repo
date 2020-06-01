@@ -48,7 +48,10 @@ namespace Codewars
             //MexicanWave.MethodRun();
 
             //Reverse Specific Strings: Take in word or sentence and only reverse said string if it is 5 or more characters long
-            ReverseFiveChar.MethodRun();
+            //ReverseFiveChar.MethodRun();
+
+            //First non-repeating character: return first non-repeating characted, upper and lowercase are considered the same
+            FirstNonRepeating.MethodRun();
 
 
             //Ending for all programs

@@ -47,6 +47,7 @@
     <Compile Include="EncryptionPartOne.cs" />
     <Compile Include="EnoughIsEnough.cs" />
     <Compile Include="ExpandedNumber.cs" />
+    <Compile Include="FirstNonRepeating.cs" />
     <Compile Include="GenericMethods.cs" />
     <Compile Include="JadenCase.cs" />
     <Compile Include="LikesString.cs" />
