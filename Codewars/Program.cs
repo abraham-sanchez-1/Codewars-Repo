@@ -51,7 +51,11 @@ namespace Codewars
             //ReverseFiveChar.MethodRun();
 
             //First non-repeating character: return first non-repeating characted, upper and lowercase are considered the same
-            FirstNonRepeating.MethodRun();
+            //FirstNonRepeating.MethodRun();
+
+            //RangeExtraction: return a string from an int array that removes has no spaces and is appropriately separated with commas.
+            RangeExtraction.Run(new int[] { -2, -1, 1, 4, 5 }); //expected outcome is a string with "-2,-1,1,4,5"
+
 
 
             //Ending for all programs
